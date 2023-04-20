@@ -1,0 +1,47 @@
+{
+"root":[
+0:{
+"name":"Edison International"
+"address":"lavender"
+"ingredients":[
+0:"West Bay"
+1:"Mohale’s Hoek"
+]
+}
+1:{
+"name":"Thor Industries"
+"address":"fuchsia"
+"ingredients":[
+0:"Ar Ruways"
+]
+}
+2:{
+"name":"AutoZone"
+"address":"olive"
+"ingredients":[
+0:"Argir"
+1:"Anna Regina"
+2:"North Palm Beach"
+3:"Ujar"
+]
+}
+3:{
+"name":"Western Refining"
+"address":"orange"
+"ingredients":[
+0:"Pespire"
+1:"Finström"
+2:"Krimpen aan den IJssel"
+3:"Poya"
+]
+}
+4:{
+"name":"3M"
+"address":"olive"
+"ingredients":[
+0:"Bankim"
+1:"Maīdān Khūlah"
+]
+}
+]
+}
